@@ -1,7 +1,16 @@
 # Hi there, I'm Peter
 ### Student of Moscow aviation institute
 
+### Contact me on:
+<a href="https://t.me/alpha1811">
+<img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
+</a>
+</p>
 
+<a href="https://vk.com/alpha1811">
+<img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/vk.png" alt="tg"/>
+</a>
+</p>
 
 🌱 I’m currently learning Python and C++
 
