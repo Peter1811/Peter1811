@@ -1,7 +1,8 @@
 # Hi there, I'm Peter
-Currently learning in Moscow Aviation Institute and working python backend developer
 🌱 I’m currently learning in Moscow Aviation Institute
+
 🔭 I’m currently working as Python backend developer (FastAPI)
+
 ⚡ Also learning Django
 
 ## Contact me on:
