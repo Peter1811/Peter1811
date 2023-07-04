@@ -1,5 +1,4 @@
-# Hi there, I'm Peter
-# Python-developer
+# Hi there, I'm Peter, Python-developer
 
 ## Contact me on:
 <a href="https://t.me/alpha1811">
@@ -10,7 +9,6 @@
 <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/vk.png" alt="tg"/>
 </a>
 
-## Languges and tools
 ### Currently using and learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
