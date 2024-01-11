@@ -1,8 +1,6 @@
 # Hi there, I'm Peter
 🌱 I’m currently learning in Moscow Aviation Institute
 
-🔭 I’m currently working as Python backend developer (FastAPI)
-
 ## Contact me on:
 <a href="https://t.me/alpha1811">
 <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
