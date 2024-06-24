@@ -1,7 +1,7 @@
 # Hello everyone, my name is Peter
-🌱 Backend Python Developer
-🔭 Studying in Moscow Aviation Institute on Computer Science
-⚡ Enjoying learning new things in various fields of knowledge
+🌱 Backend Python Developer\
+🔭 Studying in Moscow Aviation Institute on Computer Science\
+⚡ Enjoying learning new things in various fields of knowledge\
 
 ## Contact me on:
 <a href="https://t.me/alpha1811">
