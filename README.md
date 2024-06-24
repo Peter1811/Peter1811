@@ -1,5 +1,7 @@
-# Hi there, I'm Peter
-🌱 I’m currently learning in Moscow Aviation Institute
+# Hello everyone, my name is Peter
+🌱 Backend Python Developer
+🔭 Studying in Moscow Aviation Institute on Computer Science
+⚡ Enjoying learning new things in various fields of knowledge
 
 ## Contact me on:
 <a href="https://t.me/alpha1811">
@@ -14,8 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!--
 **Peter1811/Peter1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
